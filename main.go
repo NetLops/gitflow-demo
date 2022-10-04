@@ -14,3 +14,7 @@ func callmainfunction() {
 func devide() {
 	fmt.Println("devide")
 }
+
+func add() {
+	fmt.Println("add")
+}
