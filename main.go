@@ -10,3 +10,7 @@ func main() {
 func callmainfunction() {
 	fmt.Println("Test")
 }
+
+func devide() {
+	fmt.Println("devide")
+}
